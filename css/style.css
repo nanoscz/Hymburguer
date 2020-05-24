@@ -1,0 +1,16 @@
+body {
+  background-image: url("/image/icono.png");
+}
+img {
+  width: 100%;
+}
+
+.info a {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #25d366;
+  color: #fff;
+  border: solid 1px #075e54;
+  width: 100%;
+  height: auto;
+}
